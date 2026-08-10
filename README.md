@@ -1,10 +1,15 @@
 # 🍶 Multi-Object Bottle Defect Detection using YOLOv11 and Convolutional Autoencoder
 
 🎓 Jenis Proyek   : Skripsi S1 Teknik Elektro
+
 🧠 Metode         : YOLOv11 + Convolutional Autoencoder
+
 📷 Input          : Webcam
+
 🥤 Objek          : Botol Cimory Varian Blueberry 65 ml
+
 📄 Bahasa         : Python
+
 🖥️ Dashboard      : Streamlit
 
 ---
@@ -223,7 +228,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini pada komputer lokal.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/Multi-Object-Bottle-Defect-Detection.git
+git clone https://github.com/nailafi/Multi-Object-Bottle-Defect-Detection.git
 ```
 
 Masuk ke folder proyek.
@@ -323,7 +328,9 @@ Proyek ini dikembangkan menggunakan teknologi berikut.
 ## 👩‍💻 Penulis
 
 Fitri Nailatul Khobibah
+
 S-1 Teknik Elektro (Konsentrasi Elektronika)
+
 Universitas Hang Tuah, Surabaya
 
 Bidang Minat:
